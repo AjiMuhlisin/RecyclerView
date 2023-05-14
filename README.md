@@ -1,4 +1,4 @@
-# RecyclerView Pemain Sepakbola
+# RecyclerView Pemain Sepak Bola
 Nama : Aji Muhlisin
 
 NIM : 312010233
